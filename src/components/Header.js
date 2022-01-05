@@ -64,4 +64,3 @@ const RightMenu =styled.div`
 const CustMenu=styled(AiOutlineMenu)`
     cursor: pointer;
 `
-const prueba;
